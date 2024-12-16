@@ -2,6 +2,7 @@
 
 This is an educational Java application that is intentionally made vulnerable.
 
+
 ## Getting started
 
 Simply run the application to get started:
